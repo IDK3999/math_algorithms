@@ -30,3 +30,9 @@ directory/folder with the tools for it to work.
     3.6 prime_factors
     prime_factors takes input a natural number and outputs its prime factors along with how many times each one appears.
      Example: 360 = 2^3 * 3^2 * 5^1
+
+     3.7 teorema_cosinusului
+    teorema_cosinusului takes input two sides of a triangle (b and c) and the angle between them (in degrees),
+    and outputs the third side (a) using the Law of Cosines: a^2 = b^2 + c^2 - 2bc*cos(angle).
+    Inputs can be plain numbers, bare radicals, or coefficient times a radical.
+     Example: b = 4*sqrt(3), c = 5, angle = 60
