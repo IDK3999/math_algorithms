@@ -21,8 +21,12 @@ directory/folder with the tools for it to work.
      Example: sqrt(12) = 2 * sqrt(3)
 
     3.4 heron
-    Heron takes input 3 numbers, those being a triangle's sides, and outputs it's area, in the same form
+    Heron takes input 3 numbers, those being a triangle's sides, and outputs its area, in the same form
     as extragerea_radicalilor does
 
     3.5 simplif_fractii
     simplif_fractii takes input 2 numbers, those being the elements of a fraction, and simplifies them.
+
+    3.6 prime_factors
+    prime_factors takes input a natural number and outputs its prime factors along with how many times each one appears.
+     Example: 360 = 2^3 * 3^2 * 5^1
