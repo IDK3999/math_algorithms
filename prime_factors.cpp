@@ -4,7 +4,9 @@ using namespace std;
 
 int main() {
     unsigned long long n;
+    cout << "n = ";
     cin >> n;
+    cout << endl;
 
     for (unsigned long long p = 2; p * p <= n; p++) {
         if (n % p == 0) {
