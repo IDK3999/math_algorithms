@@ -4,7 +4,13 @@ using namespace std;
 
 int main(){
     long long int a, b;
-    cin >> a >> b;
+
+    cout << "Enter the top number: ";
+    cin >> a;
+    cout << "Enter the bottom number: ";
+    cin >> b;
+    cout << endl;
+    
     int i = 1;
     while(i <= a && i <= b){
 	i ++;
