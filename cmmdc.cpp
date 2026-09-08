@@ -4,9 +4,11 @@ using namespace std;
 
 int main(){
     int n; // number of elements in the set
+    cout << "Input the number of elements you want: n = ";
     cin >> n;
 
     int a[n]; // array of elements in the set
+    cout << "Input numbers: ";
     for(int i = 0; i < n; i++)
         cin >> a[i];
 
