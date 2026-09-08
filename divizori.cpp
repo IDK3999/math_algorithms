@@ -4,6 +4,7 @@ using namespace std;
 
 int main(){
 	unsigned long long int n;
+	cout << "n = ";
 	cin >> n;
 	cout << endl << 1 << " ";
 	unsigned int counter = 2;
