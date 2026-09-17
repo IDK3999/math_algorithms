@@ -46,3 +46,9 @@ directory/folder with the tools for it to work.
     and outputs the third side (a) using the Law of Cosines: a^2 = b^2 + c^2 - 2bc*cos(angle).
     Inputs can be plain numbers, bare radicals, or coefficient times a radical.
      Example: b = 4*sqrt(3), c = 5, angle = 60
+
+    3.8 incadrare
+
+    incadrare takes several numbers on one line, multiplies them, and displays the whole-number neighbors of
+    the square root of their product. Enter any letter after the numbers to finish the input.
+     Example: 2 6 x -> 3 < [INSERTED NUMBER] < 4

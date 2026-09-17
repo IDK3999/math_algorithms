@@ -5,5 +5,6 @@ g++ -O0 -pipe heron.cpp -o heron &
 g++ -O0 -pipe simplif_fractii.cpp -o simplif_fractii &
 g++ -O0 -pipe prime_factors.cpp -o prime_factors &
 g++ -O0 -pipe teorema_cosinusului.cpp -o teorema_cosinusului &
+g++ -O0 -pipe incadrare.cpp -o incadrare &
 
 wait
